@@ -1,0 +1,45 @@
+.AppReg{
+    margin: auto;
+    background-color: #ffffff;
+    width: 500px;
+    height: 500px;
+    box-shadow: 10px 10px 10px 8px  rgb(74, 74, 75);
+    /* box-shadow: 10px 10px  10px  rgb(74, 74, 75); */
+margin-top: 50px;
+    border: 2px solid #faf7f7;
+    border-radius: 8px;
+    padding: 15px;
+}
+.signUp{
+    margin-top: 4%;
+    color:  rgb(2, 2, 71);
+    text-align: center;
+}
+.btnReg{
+    margin-left: 40%;
+    padding: 10px;
+    width: 80px;
+    border-radius: 2%;
+    border: 1px solid rgb(4, 3, 71);
+    background-color: rgb(2, 2, 71);
+    color: antiquewhite;  
+   
+    /* font-weight: 500; */
+}
+
+.R{
+/* text-decoration: underline; */
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 50px;
+}
+.R1{
+    text-decoration: underline;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 50px;
+}
+.imgR{
+    margin-left: 34%;
+    width: 150px;
+}

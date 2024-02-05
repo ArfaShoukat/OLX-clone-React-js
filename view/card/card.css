@@ -1,0 +1,46 @@
+
+
+   /* .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  
+  } */
+  
+  .card {
+  display: inline-block;
+    overflow: hidden;
+    box-sizing: border-box;
+    width: 250px;
+    
+    padding: 15px;
+ 
+    background-color: #ffffff;
+    margin: 10px;
+    border-radius: 4px;
+
+    border: 1px solid #ddd;
+  
+    
+    margin: 18px;
+    width: 300px; /* Adjust the width as needed */
+    box-shadow: 6px 4px 8px rgba(32, 32, 32, 0.1);
+    text-align: center;
+  }
+  
+  .imgc {
+    
+    height: 150px;
+    margin-bottom: 8px;
+    width: 260px;
+  }
+  
+  text{
+    text-align: left;
+  }
+  .card:hover{
+    transition: 0.5s;
+    transform: scale(1.1);
+  }
+
+  

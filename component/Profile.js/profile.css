@@ -1,0 +1,53 @@
+
+.Edit-pro{
+  
+  margin-left: 10%;
+  background-color: #ffffff;
+  width: 950px;
+  height: 800px;
+  border: 2px solid #d7d5d5;
+  border-radius: 6px;
+  padding: 15px;
+
+}
+.edit-head{
+
+    color:    #081b29;
+}
+.img-edit{
+    width: 100px;
+}
+.btn-photo{
+
+    padding: 10px;
+    border-radius: 2%;
+    background-color:    #081b29;
+    color: antiquewhite;
+    border: 1px solid    #081b29;
+    position: absolute;
+    top: 89%;
+    left: 22%;
+    border-radius: 4px;
+}
+.Photo-Det{
+
+    font-size: 11px;
+    margin-left: 16% ;
+    margin-top: -3%;
+
+}
+.pro-inp{
+    padding: 15px;
+}
+.btn-Save{
+
+    padding: 10px;
+    border-radius: 2%;
+    background-color:    #081b29;
+    color: antiquewhite;
+    border: 1px solid   #081b29;
+    position: absolute;
+    left: 70%;
+    border-radius: 4px;
+
+}

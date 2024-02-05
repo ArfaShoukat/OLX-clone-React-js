@@ -1,0 +1,133 @@
+.Des{
+    margin-left: 20px;
+    border: 1px solid rgb(131, 130, 130);
+    box-shadow: 2px 3px 3px gray;
+    width: 50%;
+}
+.inside{
+    padding-left: 10px;
+}
+.in{
+    padding-left: 10px;
+}
+.img1{
+  margin-left: 20px;
+  width: 50%;
+    border: 1px solid rgb(221, 217, 217);  
+    box-shadow: 2px 0 3 gray;
+    box-shadow: 2px 3px 3px gray;
+}
+.Pro{
+    margin-left: 58%;
+   position: absolute;
+  bottom: -5%;
+  width: 40%;
+    border: 1px solid rgb(221, 217, 217);  
+    box-shadow: 2px 0 3 gray;
+    box-shadow: 2px 3px 3px gray;  
+    z-index: -1;
+}
+.Profile-img{
+    width : 100px;
+}
+.Name{
+    position: absolute;
+    left: 17%;
+    top: 10px;
+}
+.Date1{
+    position: absolute;
+    left: 17%;
+    top: 30px;
+}
+.btn1{
+    margin: auto;
+    margin: 5px;
+    margin-left: 30%;
+    border: 1px solid black;
+  width: 50%;
+  padding: 10px;
+  background-color: rgb(14, 1, 48);
+  color: white;
+  font-size: 15px;
+}
+.btn2{
+    margin: auto;
+    margin: 5px;
+    margin-left: 30%;
+    border: 4px solid rgb(33, 4, 87);
+  width: 50%;
+  padding: 10px;
+  color: rgb(6, 6, 83);
+ font-weight: bolder;
+ font-size: 18px;
+}
+.btn3{
+    margin: auto;
+    margin: 5px;
+ margin-left: 20px;
+    border: 4px solid rgb(2, 1, 51);
+    width: 50%;
+    padding: 10px;
+    color: rgb(5, 5, 70);
+   font-weight: bolder;
+   font-size: 18px;
+ box-shadow: 2px 3px 4px rgb(13, 13, 14);
+}
+.btn3:hover{
+    background-color: rgb(14, 1, 48);
+    color: white;
+}
+.see{
+    position: absolute;
+    left: 84px;
+}
+.location{
+    color: rgb(5, 5, 78);
+    margin-left: 58%;
+    position: absolute;
+   bottom: -24%;
+   width: 40%;
+     border: 1px solid rgb(221, 217, 217);  
+     box-shadow: 2px 0 3 gray;
+     box-shadow: 2px 3px 3px gray;  
+     z-index: -1;
+}
+.add{
+    color: rgb(5, 5, 78);
+    margin-left: 79%;
+    position: absolute;
+   bottom: -63%;
+   width: 250px;
+     border: 1px solid rgb(221, 217, 217);  
+     box-shadow: 2px 0 3 gray;
+     box-shadow: 2px 3px 3px gray; 
+     z-index: -1; 
+}
+.l1{
+    position: absolute;
+    left: 20px;
+  
+}
+.l2{
+    position: absolute;
+    left: 20px;
+
+  
+}
+
+
+.heart{
+   position: absolute;
+left: 47%;
+}
+
+.share{
+    position: absolute;
+ left: 44%;
+ }
+
+
+
+
+ 

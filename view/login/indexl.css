@@ -1,0 +1,48 @@
+.appLogin{
+
+    margin: auto;
+    background-color: #ffffff;
+    width: 500px;
+    height: 500px;
+    box-shadow: 8px 8px 8px 3px  rgb(74, 74, 75);
+    /* box-shadow: 10px 10px  10px  rgb(74, 74, 75); */
+margin-top: 50px;
+    border: 2px solid #faf7f7;
+    border-radius: 8px;
+    padding: 15px;
+}
+.h2{
+    margin-top: 6%;
+    color:  rgb(2, 2, 71);
+    text-align: center;
+  }
+  .inp{
+margin-left: 40px;
+    padding: 15px;
+
+  }
+    .btnLogin{
+    margin-left: 40%;
+    padding: 10px;
+    width: 80px;
+    border-radius: 2%;
+    background-color: rgb(2, 2, 71);
+    color: antiquewhite;
+    border: 1px solid rgb(4, 3, 71);
+  }
+  .p{
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 50px;
+}
+.p1{
+  text-decoration: underline;
+  font-weight: 700;
+  font-family: 'Times New Roman', Times, serif;
+  text-indent: 50px;
+}
+.imgG{
+    margin-top: 20px;
+    margin-left: 120px;
+    width: 200px;
+}
